@@ -1,4 +1,4 @@
-# EDA
+# EDA_Zomato
 ## Project Overview
 
 This project aims to perform Exploratory Data Analysis (EDA) on the Zomato dataset to gain insights into the restaurant landscape, cuisines, average cost, user ratings, and other attributes. By conducting EDA, we aim to understand the key trends, patterns, and relationships within the data, facilitating data-driven decision-making and strategic planning for the food industry.
